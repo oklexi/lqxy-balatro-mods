@@ -14,6 +14,14 @@ SMODS.Atlas{
     py = 95
 }
 
+SMODS.Atlas({
+	key = "modicon",
+	path = "ModIcon.png",
+	px = 16,
+	py = 16,
+}):register()
+
+
     SMODS.Joker{
         key = 'joker2',
         loc_txt = {
